@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Nee Soon AI And Innovation Festival
+---
+
+On Saturday, 25th July 2026, I went to the Nee Soon AI and Innovation festival, representing SST and Robotics @APEX. Many other schools and instiuitions took part, including Yishun Town Secondary School, Singapore Polytechnic, Nanyang Technological University, and more. Government and heartland agencies also attended the event, such as HTX, Singapore Police Force, People's Association, etc. 
+
+Seeing over 30 booths participate was inspiring as we got to learn about engineering and innovation beyond competitive robotics, and experience the world of mechatronics outside of my current scope. Visiting the different booths while driving Xiao Hong around allowed me to learn about the different booths, as well as witness the projects of the Nee Soon AI and Innovation Challenge. 
+
+The booth that most caught my attention was Check Point, which featured an AI and critical thinking experience. The challenge posed was simple: convince an AI agent to do something it isn't supposed to for your own good. On the surface, it seemed simple enough, but this actually revealed a real vulnerability - AI agents will still have a flaw that allow you to exploit them. Artificial Intelligence is not 100% accurate, and this booth proved it the best. 
+
+The atmosphere was great, with many families coming to visit our booth. Mr K Shanmugam, Coordinating Minister for National Security & Minister for Home Affairs was the main VIP of the event, stopping by the different booths and encouraging us. 
+
+The event was very fun and thrilling, and I learnt many new things. Hope to come back in 2027!
